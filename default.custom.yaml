@@ -1,0 +1,6 @@
+patch:
+  # 候选词个数
+  "menu/page_size": 7
+  # 关闭左侧shift切换中英文,只保留 Caps_Lock
+  "ascii_composer/switch_key":
+    Shift_L: noop
