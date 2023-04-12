@@ -1,0 +1,4 @@
+patch:
+  "punctuator/half_shape":
+   ## 中文输入也用英文标点,定义在 punctuation.yaml 
+    __include: punctuation:/ascii_style
