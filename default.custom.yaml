@@ -1,6 +1,7 @@
 patch:
   # 候选词个数
   "menu/page_size": 7
-  # 关闭左侧shift切换中英文,只保留 Caps_Lock
+  # 关闭左侧shift切换中英文,保留 Caps_Lock和右侧shift
   "ascii_composer/switch_key":
     Shift_L: noop
+    Shift_R: inline_ascii
