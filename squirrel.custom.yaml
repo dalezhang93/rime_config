@@ -1,4 +1,6 @@
 patch:
+  # 输入框横排显示
+  "style/horizontal": true
   "app_options/com.googlecode.iterm2": 
      vim_mode: true
   "app_options/com.jetbrains.intellij":
