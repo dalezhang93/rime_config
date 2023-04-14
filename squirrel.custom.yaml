@@ -4,17 +4,13 @@ patch:
   "app_options/com.googlecode.iterm2": 
      vim_mode: true
   "app_options/com.jetbrains.intellij":
-     ascii_mode: true # 初始为西文模式
      vim_mode: true   # 退出 VIM 插入模式自动切换
   "app_options/com.jetbrains.intellij.ce":
-     ascii_mode: true 
      vim_mode: true
   "app_options/com.microsoft.VSCode":
      vim_mode: true
   "app_options/org.tabby":
-     ascii_mode: true
      vim_mode: true
   "app_options/com.apple.Terminal":
-     ascii_mode: true
      vim_mode: true
      
