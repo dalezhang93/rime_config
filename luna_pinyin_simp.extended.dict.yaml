@@ -1,0 +1,9 @@
+---
+name: luna_pinyin_simp.extended #必须与文件名相同，此处不加文件后缀 
+version: "2023.04.15"
+sort: by_weight
+use_preset_vocabulary: true
+
+import_tables:
+  - luna_pinyin
+  - luna_pinyin.sogou
